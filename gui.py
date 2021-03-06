@@ -130,11 +130,11 @@ def img2(e=''):
     webbrowser.open('im2.jar')
     from tkinter import filedialog
     app.fn1 = filedialog.askopenfilename(filetypes=(('png', '*.png'), ('png', '*.png')))
-    yyyyyy = open('D:\\3\\linux_python\\dist\\cmd\\im2.txt', 'a')
+    yyyyyy = open('im2.txt', 'a')
     yyyyyy.write(app.fn1)
     yyyyyy.close()
     import webbrowser
-    webbrowser.open('D:\\3\\linux_python\\p.bat')
+    webbrowser.open('p.bat')
     exit()
     atp = PhotoImage(file=app.fn1)
     l45['image'] = atp
@@ -145,11 +145,11 @@ def img1():
     webbrowser.open('im1.jar')
     from tkinter import filedialog
     app.fn = filedialog.askopenfilename(filetypes=(('png', '*.png'), ('png', '*.png')))
-    yyyyyy = open('D:\\3\\linux_python\\dist\\cmd\\im1.txt', 'a')
+    yyyyyy = open('im1.txt', 'a')
     yyyyyy.write(app.fn)
     yyyyyy.close()
     import webbrowser
-    webbrowser.open('D:\\3\\linux_python\\p.bat')
+    webbrowser.open('p.bat')
     exit()
     jk = PhotoImage(file=app.fn)
     l['image'] = jk
