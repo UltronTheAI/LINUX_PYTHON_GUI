@@ -1,3 +1,4 @@
+BUT IT IS FOR LEARNING. NOT FOR HACK ANY PC.
 THC-HYDRA-windows
 =================
 
