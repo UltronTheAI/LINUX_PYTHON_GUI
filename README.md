@@ -1,6 +1,6 @@
 Download Link : https://drive.google.com/file/d/18FJP88nRBQMHuWHzcmEWaQgZQ_2kTyqj/view
 
-
+To Run Linux You Need Python. IF You Have Then Type IN Cmd python gui.py
 
 BUT IT IS FOR LEARNING. NOT FOR HACK ANY PC.
 THC-HYDRA-windows
